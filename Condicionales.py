@@ -12,3 +12,4 @@ elif numero == 5:
     print("ES igual a 5")
 else:
     print("Es menor a 5 ")
+digas mamadas merry jane
