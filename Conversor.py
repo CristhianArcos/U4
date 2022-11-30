@@ -4,8 +4,8 @@ valor_dolar = 20
 dolares = pesos / valor_dolar                           
 dolares = round(dolares, 2)
 dolares = str(dolares)
-print("Tienes $" + dolares + "dolares")"""
-menu = """
+print("Tienes $" + dolares + "dolares")
+menu = 
 Bienvenido al conversor de monedas 🐱‍👤
 1 - pesos colombianos
 2 - pesos argentinos
